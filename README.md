@@ -1,10 +1,14 @@
-### UI/UX Design
+#### UI/UX Design
+---
 This is my personal UI/UX Design. This repo is my persoanl showcase of my work.
 
-### License
+#### License
+---
 The MIT License
 
 
-### Contact
+#### Contact
+---
 Skype: ahmadshorif
+
 Email: to.ahmadsharif@gmail.com
